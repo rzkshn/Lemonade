@@ -148,6 +148,8 @@ fun LemonadeApp() {
     }
 }
 
+// add changes
+
 @Composable
 fun LemonTextAndImage(
     textLabelResourceId: Int,
